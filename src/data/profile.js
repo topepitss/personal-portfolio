@@ -8,8 +8,8 @@ export const profile = {
   title: 'Aspiring Associate Software Engineer | IT Support & Salesforce Trainee',
   tagline:
     'Building practical web applications while bringing a strong foundation in programming, troubleshooting, databases, and Salesforce development.',
-  cvPath: '/cv.pdf',
-  profileImage: '/profile.jpg',
+  cvPath: `${import.meta.env.BASE_URL}cv.pdf`,
+  profileImage: `${import.meta.env.BASE_URL}profile.jpg`,
   aboutHeading: 'Graduating IT student focused on software and support solutions.',
   about:
     'I am a graduating Bachelor of Science in Information Technology student from STI College Global City with hands-on experience in programming, IT support, and Salesforce development. My CV highlights a foundation in Java, JavaScript, C#, PHP, SQL, HTML, CSS, SAP Business One, and Salesforce administration and development. I am adaptable, detail-oriented, and eager to contribute to software development and technology solutions as an associate software engineer.',
