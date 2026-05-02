@@ -8,7 +8,7 @@ import portfolioImage from '../assets/project-images/portfolio.png';
 
 export const projects = [
   {
-    title: 'SustainHealth Candidate Recruitment Tracker',
+    title: 'Compliance Recruitment Tracker',
     label: 'Featured project',
     status: 'Currently working',
     description:
