@@ -17,7 +17,7 @@ export const projects = [
     image: trackerImage,
     // Replace these with 2 to 5 real screenshots of this project.
     gallery: [trackerImage1, trackerImage2, trackerImage3, trackerImage4, trackerImage5],
-    githubUrl: '#', // TODO: Replace with your GitHub repository URL.
+    githubUrl: 'https://github.com/topepitss/Compliance-Recruitement-Tracker',
     liveUrl: 'https://sustainhealth-tracker.onrender.com/',
   },
   {
